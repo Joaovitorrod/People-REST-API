@@ -23,10 +23,12 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/api/v1/people
 ```
 
-É possível trabalhar com POST, GET, PUT e DELETE. Use o Postman, por exemplo para o link abaixo fazendo a requisição desejada e de acordo com o slide no final deste documento.
+É possível trabalhar com POST, GET, PUT e DELETE. Use o Postman, por exemplo, para o link abaixo fazendo a requisição desejada e de acordo com a imagem abaixo.
 ```
 https://peopleapi-rest-com-spring-boot.herokuapp.com/api/v1/people
 ```
+![Tabela de comandos](APIrest_auto_x2.jpg)
+
 
 São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
 
